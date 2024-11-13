@@ -26,26 +26,31 @@ This is a Task Manager application developed using **ReactJS**. It allows users 
    git clone https://github.com/your-username/task-manager.git
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
+
 cd task-manager
+```
 Install dependencies:
 
-bash
-Copy code
+```bash
+
 npm install
+```
 Run the application:
 
-bash
-Copy code
+```bash
+
 npm start
+```
 The app will open in your default browser at http://localhost:3000.
 
-Assumptions:
+
+### Assumptions:
 The app stores tasks only in the browser using localStorage. If the browser storage is cleared, all tasks will be lost.
 The priority levels are fixed to High, Medium, and Low.
-Screenshots:
 
-Demo:
-Click here to view the live demo
+
+### Demo:
+Click here to view the live demo -
+https://drive.google.com/file/d/1jLZQh5mOFc7VqwfcJS9XvRbDUxcVs-99/view?usp=sharing
 
